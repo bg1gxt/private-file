@@ -3,5 +3,5 @@ Editors:
     1.Esc_out
     2.mnra
     3.(Unknown)
-If you have any amazing ideas,send an email to even3126@126.com!
+If you have any amazing ideas,send an email to even3126@gmail.com!
 We want you!(point)
